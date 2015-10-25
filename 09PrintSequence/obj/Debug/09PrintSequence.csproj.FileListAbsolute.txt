@@ -1,0 +1,5 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\09PrintSequence\bin\Debug\09PrintSequence.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\09PrintSequence\bin\Debug\09PrintSequence.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\09PrintSequence\bin\Debug\09PrintSequence.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\09PrintSequence\obj\Debug\09PrintSequence.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\09PrintSequence\obj\Debug\09PrintSequence.pdb

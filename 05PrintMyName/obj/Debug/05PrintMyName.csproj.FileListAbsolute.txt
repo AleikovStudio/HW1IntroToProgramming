@@ -1,0 +1,5 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\05PrintMyName\bin\Debug\05PrintMyName.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\05PrintMyName\bin\Debug\05PrintMyName.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\05PrintMyName\bin\Debug\05PrintMyName.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\05PrintMyName\obj\Debug\05PrintMyName.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\05PrintMyName\obj\Debug\05PrintMyName.pdb

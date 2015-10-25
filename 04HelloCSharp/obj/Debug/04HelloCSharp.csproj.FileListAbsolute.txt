@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\04HelloCSharp\bin\Debug\04HelloCSharp.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\04HelloCSharp\bin\Debug\04HelloCSharp.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\04HelloCSharp\bin\Debug\04HelloCSharp.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\04HelloCSharp\obj\Debug\04HelloCSharp.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\04HelloCSharp\obj\Debug\04HelloCSharp.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\04HelloCSharp\obj\Debug\04HelloCSharp.pdb

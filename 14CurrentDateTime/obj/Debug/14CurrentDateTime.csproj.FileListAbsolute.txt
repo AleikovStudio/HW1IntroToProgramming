@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\14CurrentDateTime\bin\Debug\14CurrentDateTime.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\14CurrentDateTime\bin\Debug\14CurrentDateTime.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\14CurrentDateTime\bin\Debug\14CurrentDateTime.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\14CurrentDateTime\obj\Debug\14CurrentDateTime.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\14CurrentDateTime\obj\Debug\14CurrentDateTime.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW191015IntroToProgramming\14CurrentDateTime\obj\Debug\14CurrentDateTime.pdb
